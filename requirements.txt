@@ -1,0 +1,5 @@
+torch==2.0.0               # Для работы с моделями (Whisper)
+whisper==1.0.0             # Библиотека Whisper от OpenAI
+pydub                     # Для работы с аудиофайлами (конвертация форматов)
+soundfile                 # Для чтения и записи аудио в формате WAV
+ffmpeg-python             # Для использования FFmpeg через Python
